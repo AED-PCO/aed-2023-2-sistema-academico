@@ -15,3 +15,20 @@ C:\Users\1434769\Desktop\SistemaAcademicoPUC\SistemaAcademicoPUC\SistemaAcademic
 C:\Users\1434769\Desktop\SistemaAcademicoPUC\SistemaAcademicoPUC\SistemaAcademicoPUC\obj\Debug\net6.0-windows\SistemaAcademicoPUC.genruntimeconfig.cache
 C:\Users\1434769\Desktop\SistemaAcademicoPUC\SistemaAcademicoPUC\SistemaAcademicoPUC\obj\Debug\net6.0-windows\ref\SistemaAcademicoPUC.dll
 C:\Users\1434769\Desktop\SistemaAcademicoPUC\SistemaAcademicoPUC\SistemaAcademicoPUC\obj\Debug\net6.0-windows\SistemaAcademicoPUC.TelaLogin.resources
+C:\Users\João França\Desktop\aed-2023-2-sistema-academico\SistemaAcademicoPUC\bin\Debug\net6.0-windows\SistemaAcademicoPUC.exe
+C:\Users\João França\Desktop\aed-2023-2-sistema-academico\SistemaAcademicoPUC\bin\Debug\net6.0-windows\SistemaAcademicoPUC.deps.json
+C:\Users\João França\Desktop\aed-2023-2-sistema-academico\SistemaAcademicoPUC\bin\Debug\net6.0-windows\SistemaAcademicoPUC.runtimeconfig.json
+C:\Users\João França\Desktop\aed-2023-2-sistema-academico\SistemaAcademicoPUC\bin\Debug\net6.0-windows\SistemaAcademicoPUC.dll
+C:\Users\João França\Desktop\aed-2023-2-sistema-academico\SistemaAcademicoPUC\bin\Debug\net6.0-windows\SistemaAcademicoPUC.pdb
+C:\Users\João França\Desktop\aed-2023-2-sistema-academico\SistemaAcademicoPUC\obj\Debug\net6.0-windows\SistemaAcademicoPUC.TelaCadastro.resources
+C:\Users\João França\Desktop\aed-2023-2-sistema-academico\SistemaAcademicoPUC\obj\Debug\net6.0-windows\SistemaAcademicoPUC.TelaLogin.resources
+C:\Users\João França\Desktop\aed-2023-2-sistema-academico\SistemaAcademicoPUC\obj\Debug\net6.0-windows\SistemaAcademicoPUC.csproj.GenerateResource.cache
+C:\Users\João França\Desktop\aed-2023-2-sistema-academico\SistemaAcademicoPUC\obj\Debug\net6.0-windows\SistemaAcademicoPUC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\João França\Desktop\aed-2023-2-sistema-academico\SistemaAcademicoPUC\obj\Debug\net6.0-windows\SistemaAcademicoPUC.AssemblyInfoInputs.cache
+C:\Users\João França\Desktop\aed-2023-2-sistema-academico\SistemaAcademicoPUC\obj\Debug\net6.0-windows\SistemaAcademicoPUC.AssemblyInfo.cs
+C:\Users\João França\Desktop\aed-2023-2-sistema-academico\SistemaAcademicoPUC\obj\Debug\net6.0-windows\SistemaAcademicoPUC.csproj.CoreCompileInputs.cache
+C:\Users\João França\Desktop\aed-2023-2-sistema-academico\SistemaAcademicoPUC\obj\Debug\net6.0-windows\SistemaAcademicoPUC.dll
+C:\Users\João França\Desktop\aed-2023-2-sistema-academico\SistemaAcademicoPUC\obj\Debug\net6.0-windows\refint\SistemaAcademicoPUC.dll
+C:\Users\João França\Desktop\aed-2023-2-sistema-academico\SistemaAcademicoPUC\obj\Debug\net6.0-windows\SistemaAcademicoPUC.pdb
+C:\Users\João França\Desktop\aed-2023-2-sistema-academico\SistemaAcademicoPUC\obj\Debug\net6.0-windows\SistemaAcademicoPUC.genruntimeconfig.cache
+C:\Users\João França\Desktop\aed-2023-2-sistema-academico\SistemaAcademicoPUC\obj\Debug\net6.0-windows\ref\SistemaAcademicoPUC.dll

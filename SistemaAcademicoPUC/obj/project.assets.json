@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\João França\\Desktop\\TrabalhoAED\\SistemaAcademicoPUC\\SistemaAcademicoPUC\\SistemaAcademicoPUC.csproj",
+      "projectUniqueName": "C:\\Users\\João França\\Desktop\\aed-2023-2-sistema-academico\\SistemaAcademicoPUC\\SistemaAcademicoPUC.csproj",
       "projectName": "SistemaAcademicoPUC",
-      "projectPath": "C:\\Users\\João França\\Desktop\\TrabalhoAED\\SistemaAcademicoPUC\\SistemaAcademicoPUC\\SistemaAcademicoPUC.csproj",
+      "projectPath": "C:\\Users\\João França\\Desktop\\aed-2023-2-sistema-academico\\SistemaAcademicoPUC\\SistemaAcademicoPUC.csproj",
       "packagesPath": "C:\\Users\\João França\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\João França\\Desktop\\TrabalhoAED\\SistemaAcademicoPUC\\SistemaAcademicoPUC\\obj\\",
+      "outputPath": "C:\\Users\\João França\\Desktop\\aed-2023-2-sistema-academico\\SistemaAcademicoPUC\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\João França\\AppData\\Roaming\\NuGet\\NuGet.Config",

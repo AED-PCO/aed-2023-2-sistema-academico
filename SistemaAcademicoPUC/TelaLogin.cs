@@ -1,3 +1,6 @@
+using SistemaAcademicoPUC.Recursos;
+using System.Security.Policy;
+
 namespace SistemaAcademicoPUC
 {
     public partial class TelaLogin : Form
@@ -22,6 +25,8 @@ namespace SistemaAcademicoPUC
                 MessageBox.Show("Favor preencher todos os campos!");
                 return;
             }
+            
+            
         }
 
         private void showPass_CheckChanged(object sender, EventArgs e)
